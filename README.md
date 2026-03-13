@@ -1,5 +1,5 @@
 # Character-wise_number_generation_for_8086_microprocessor
-The following section describes the binary number generation process for the MDA 8086 Trainer Kit.
+The following section describes the number generation process for the MDA 8086 Trainer Kit.
 
 - **[Character-wise number generation for MDA 8086 trainer kit.pdf](./Character-wise%20number%20generation%20for%20MDA%208086%20trainer%20kit.pdf)**  
   Explains the number(Binary, Hexadecima or Decimal) generation process and column scanning method.
